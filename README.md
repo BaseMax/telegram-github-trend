@@ -16,6 +16,15 @@ https://t.me/GitGpCh
 
 If you have a significant repository, send the link on Telegram group **@GitGpCh**.
 
+### Depends on
+
+- https://github.com/BaseMax/TinyTelegramBotPHP
+- https://github.com/BaseMax/NetPHP
+
+### Similar Projects
+
+- https://github.com/BaseMax/twitter-github-trend
+
 ---------
 
 # Max Base
