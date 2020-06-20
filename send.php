@@ -1,7 +1,7 @@
 <?php
 // Max Base
 // https://github.com/BaseMax/telegram-github-trend
-include "_base.php";
+include "TinyTelegramBot.php";
 $repos=[];
 $res=get("https://github.com/trending");
 preg_match_all('/<h1 class="h3 lh-condensed">(\s*|)<a href=\"\/([^\/]+)\/([^\"]+)" data-hydro-click/i', $res[0], $_repos);
