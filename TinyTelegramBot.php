@@ -1,5 +1,6 @@
 <?php
-// https://github.com/BaseMax/telegram-github-trend
+// Max Base
+// https://github.com/BaseMax/TinyTelegramBotPHP
 include "NetPHP.php";
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
