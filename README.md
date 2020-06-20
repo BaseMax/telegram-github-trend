@@ -8,6 +8,14 @@
 
 A Tiny script to send message for new projects in GitHub Open Source - Free Software/GitHub Trending channel. (https://t.me/GitGpCh)
 
+PHP script to **crawler** and get list of trending repositories in GitHub.
+
+https://t.me/GitGpCh
+
+[![twitter-github-trend](screen.jpg)](https://t.me/GitGpCh)
+
+If you have a significant repository, send the link on Telegram group **@GitGpCh**.
+
 ---------
 
 # Max Base
